@@ -1,0 +1,112 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="YUBCAP.com" resolutions="1x" timestamp="1574563795457">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="396057753" ref="self-awareness---self-management-3d-model:sam-3:tcp-2:bc-3:tcp-3:index:instructorlearning-coach:tcp-1:tcp-4:self-awareness---self-management--skills:program-manager:bc-4:sam-1:career-readiness-3d-model:cr-2:cr-1:business-communication-3d-model:sam-2:teamwork,-collaboration---productivity--skills:sam-5:cr-3:teamwork,-collaboration---productivity-3d-model:site-director:tcp-5:bc-1:bc-2:sam-4:business-communication-skills:career-readiness--skills"/>
+    <file name="self-awareness---self-management-3d-model.css" crc="3776638608" ref="self-awareness---self-management-3d-model"/>
+    <file name="sam-3.css" crc="4148822600" ref="sam-3"/>
+    <file name="tcp-2.css" crc="466504055" ref="tcp-2"/>
+    <file name="bc-3.css" crc="6851951" ref="bc-3"/>
+    <file name="tcp-3.css" crc="3827882088" ref="tcp-3"/>
+    <file name="index.css" crc="2220116" ref="index"/>
+    <file name="instructorlearning-coach.css" crc="4014667048" ref="instructorlearning-coach"/>
+    <file name="tcp-1.css" crc="4257646642" ref="tcp-1"/>
+    <file name="tcp-4.css" crc="4040425684" ref="tcp-4"/>
+    <file name="self-awareness---self-management--skills.css" crc="273052483" ref="self-awareness---self-management--skills"/>
+    <file name="program-manager.css" crc="4196699458" ref="program-manager"/>
+    <file name="bc-4.css" crc="368529740" ref="bc-4"/>
+    <file name="sam-1.css" crc="241093141" ref="sam-1"/>
+    <file name="career-readiness-3d-model.css" crc="4049224951" ref="career-readiness-3d-model"/>
+    <file name="cr-2.css" crc="3893648392" ref="cr-2"/>
+    <file name="cr-1.css" crc="4161195976" ref="cr-1"/>
+    <file name="business-communication-3d-model.css" crc="192952368" ref="business-communication-3d-model"/>
+    <file name="sam-2.css" crc="3982376860" ref="sam-2"/>
+    <file name="teamwork_-collaboration---productivity--skills.css" crc="4258883505" ref="teamwork,-collaboration---productivity--skills"/>
+    <file name="sam-5.css" crc="3998029741" ref="sam-5"/>
+    <file name="cr-3.css" crc="275270015" ref="cr-3"/>
+    <file name="teamwork_-collaboration---productivity-3d-model.css" crc="455302118" ref="teamwork,-collaboration---productivity-3d-model"/>
+    <file name="site-director.css" crc="4258848514" ref="site-director"/>
+    <file name="tcp-5.css" crc="4286466673" ref="tcp-5"/>
+    <file name="bc-1.css" crc="3810860924" ref="bc-1"/>
+    <file name="bc-2.css" crc="4261545865" ref="bc-2"/>
+    <file name="sam-4.css" crc="432963026" ref="sam-4"/>
+    <file name="business-communication-skills.css" crc="466768773" ref="business-communication-skills"/>
+    <file name="career-readiness--skills.css" crc="3795048791" ref="career-readiness--skills"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="museutils.js" crc="3939489907" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="require.js" crc="4177726516" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="webpro.js" crc="3856315280" ref="business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="business-communication-skills:business-communication-3d-model:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="site-director"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="site-director"/>
+    <file name="touchswipe.js" crc="3888935200" ref="site-director"/>
+  </folder>
+  <folder name="images">
+    <file name="yu_gold-blue-crop-u624.png" crc="133025724" seo="true" ref="index:business-communication-skills:business-communication-3d-model:site-director:instructorlearning-coach:bc-1:program-manager:career-readiness--skills:career-readiness-3d-model:teamwork,-collaboration---productivity--skills:self-awareness---self-management--skills:teamwork,-collaboration---productivity-3d-model:self-awareness---self-management-3d-model:bc-2:bc-3:bc-4:cr-1:cr-2:cr-3:tcp-1:tcp-2:tcp-3:tcp-4:tcp-5:sam-1:sam-2:sam-3:sam-4:sam-5">
+      <caption webpage="cr-2" alt=""/>
+      <caption webpage="sam-2" alt=""/>
+      <caption webpage="teamwork,-collaboration---productivity--skills" alt=""/>
+      <caption webpage="tcp-3" alt=""/>
+      <caption webpage="bc-1" alt=""/>
+      <caption webpage="bc-3" alt=""/>
+      <caption webpage="tcp-5" alt=""/>
+      <caption webpage="career-readiness--skills" alt=""/>
+      <caption webpage="instructorlearning-coach" alt=""/>
+      <caption webpage="cr-1" alt=""/>
+      <caption webpage="tcp-2" alt=""/>
+      <caption webpage="bc-2" alt=""/>
+      <caption webpage="bc-4" alt=""/>
+      <caption webpage="sam-1" alt=""/>
+      <caption webpage="business-communication-skills" alt=""/>
+      <caption webpage="tcp-4" alt=""/>
+      <caption webpage="program-manager" alt=""/>
+      <caption webpage="sam-4" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="business-communication-3d-model" alt=""/>
+      <caption webpage="career-readiness-3d-model" alt=""/>
+      <caption webpage="sam-5" alt=""/>
+      <caption webpage="sam-3" alt=""/>
+      <caption webpage="teamwork,-collaboration---productivity-3d-model" alt=""/>
+      <caption webpage="tcp-1" alt=""/>
+      <caption webpage="site-director" alt=""/>
+      <caption webpage="self-awareness---self-management--skills" alt=""/>
+      <caption webpage="self-awareness---self-management-3d-model" alt=""/>
+      <caption webpage="cr-3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4208589726" seo="true" mt="1573793803764" redirect="true"/>
+  <file name="business-communication-skills.html" crc="428759099" seo="true" mt="1572931011561" redirect="true"/>
+  <file name="business-communication-3d-model.html" crc="4120209894" seo="true" mt="1573058314509" redirect="true"/>
+  <file name="site-director.html" crc="437617093" seo="true" mt="1573059117460" redirect="true"/>
+  <file name="instructorlearning-coach.html" crc="3786005618" seo="true" mt="1573793970074" redirect="true"/>
+  <file name="bc-1.html" crc="3922815421" seo="true" mt="1573085835951" redirect="true"/>
+  <file name="program-manager.html" crc="3695710" seo="true" mt="1573059107329" redirect="true"/>
+  <file name="career-readiness--skills.html" crc="4203863285" seo="true" mt="1572931330805" redirect="true"/>
+  <file name="career-readiness-3d-model.html" crc="4117387580" seo="true" mt="1573794003621" redirect="true"/>
+  <file name="teamwork,-collaboration---productivity--skills.html" crc="272882728" seo="true" mt="1572931306335" redirect="true"/>
+  <file name="self-awareness---self-management--skills.html" crc="3800855717" seo="true" mt="1572931320281" redirect="true"/>
+  <file name="teamwork,-collaboration---productivity-3d-model.html" crc="3774509204" seo="true" mt="1573062600838" redirect="true"/>
+  <file name="self-awareness---self-management-3d-model.html" crc="3874705723" seo="true" mt="1573062628084" redirect="true"/>
+  <file name="bc-2.html" crc="4172723765" seo="true" mt="1573085825452" redirect="true"/>
+  <file name="bc-3.html" crc="4193105206" seo="true" mt="1573085810604" redirect="true"/>
+  <file name="bc-4.html" crc="3798777004" seo="true" mt="1573085794570" redirect="true"/>
+  <file name="cr-1.html" crc="3825617897" seo="true" mt="1573062939832" redirect="true"/>
+  <file name="cr-2.html" crc="3924335009" seo="true" mt="1573085767201" redirect="true"/>
+  <file name="cr-3.html" crc="4243906626" seo="true" mt="1573085752704" redirect="true"/>
+  <file name="tcp-1.html" crc="4119779636" seo="true" mt="1573062825202" redirect="true"/>
+  <file name="tcp-2.html" crc="3957374298" seo="true" mt="1573062843335" redirect="true"/>
+  <file name="tcp-3.html" crc="4042427688" seo="true" mt="1573062861836" redirect="true"/>
+  <file name="tcp-4.html" crc="380667435" seo="true" mt="1573062887481" redirect="true"/>
+  <file name="tcp-5.html" crc="460624447" seo="true" mt="1573062904083" redirect="true"/>
+  <file name="sam-1.html" crc="229592658" seo="true" mt="1573062701511" redirect="true"/>
+  <file name="sam-2.html" crc="91285302" seo="true" mt="1573062729585" redirect="true"/>
+  <file name="sam-3.html" crc="425586176" seo="true" mt="1573062747047" redirect="true"/>
+  <file name="sam-4.html" crc="192469465" seo="true" mt="1573794022165" redirect="true"/>
+  <file name="sam-5.html" crc="3903213151" seo="true" mt="1573062790086" redirect="true"/>
+</manifest>
